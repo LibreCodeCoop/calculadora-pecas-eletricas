@@ -7,4 +7,4 @@ $i=0;
 do {
     $i++;
     andre($i);
-} while($i<10);
+} while($i<20);
